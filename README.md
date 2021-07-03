@@ -3,9 +3,9 @@ Welcome! This is the repository for all lectures, assignments, and datasets for 
 
 Datasets Used in this Repo:
 
-PIMA Indians diabetes dataset: https://www.kaggle.com/uciml/pima-indians-diabetes-database/version/1 
-Depression Dataset from UFHealth Biostatistics Open Learning Textbook: http://bolt.mph.ufl.edu/2012/08/02/learn-by-doing-exploring-a-dataset/ 
-Hypothyroidism Data from UCI Machine Learning Repository: http://archive.ics.uci.edu/ml/datasets/thyroid+disease
+PIMA Indians diabetes dataset: https://www.kaggle.com/uciml/pima-indians-diabetes-database/version/1   
+Depression Dataset from UFHealth Biostatistics Open Learning Textbook: http://bolt.mph.ufl.edu/2012/08/02/learn-by-doing-exploring-a-dataset/   
+Hypothyroidism Data from UCI Machine Learning Repository: http://archive.ics.uci.edu/ml/datasets/thyroid+disease  
 
 ## Notebooks
 * Contains Jupyter Notebook lessons where students will need to write their own code
